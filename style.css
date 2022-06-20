@@ -680,3 +680,7 @@ main,footer {
 @media (max-width: 479px) {
 	
 }
+
+.menu-section .menu-details-tab .menu-center .menu-content-box h3 {
+	margin-top: 20px!important;
+}
