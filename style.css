@@ -362,7 +362,6 @@ footer {
     padding-top: 40px;
 }
 .footer-main {
-    background-image: url("images/footer-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -546,7 +545,7 @@ footer {
 /* * Page Banner */
 
 .page-banner {
-    background-image: url("./images/blog-banner.jpg");
+    background-image: url("./images/new/bg-2.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
