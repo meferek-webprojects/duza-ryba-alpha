@@ -987,13 +987,13 @@
 /* - Order Section 2 */
 
 .order-section-2 {
-    background-image: url("../images/order-bg.jpg");
+    background-image: url("../images/new/bg-2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
 }
 .order-section-2::before {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.5);
     content: "";
     display: inline-block;
     left: 0;
