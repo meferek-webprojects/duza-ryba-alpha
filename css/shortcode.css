@@ -541,13 +541,12 @@
 /* - Testimonial Section */
 
 .testimonial-section {
-    background-image: url("../images/testi-bg.jpg");
+    background-image: url("../images/new/bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
 }
 .testimonial-section::before {
-    background-color: rgba(0, 0, 0, 0.8);
     content: "";
     left: 0;
     right: 0;
